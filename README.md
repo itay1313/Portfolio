@@ -1,12 +1,10 @@
 Itay Haephrati 
 
-In Progress:
-https://www.figma.com/file/ZyTshGoTrLNbAdfOqIKOkp/Cafe_CuCu?node-id=49%3A61
-https://www.figma.com/file/OhAkYKus3GaY0qmIrTDBYB/GYM-Copy?node-id=7%3A33
-
 Latest projects:
+
 https://fresh-start.co.il
 http://lightfective.com/
+cafecucu.co.il
 https://stopapilloma.co.il/
 http://com-mando.me/
 Design system for Graduway: https://zeroheight.com/72212295b
@@ -70,4 +68,9 @@ http://gmailsharedcontacts.com
 http://int.exalenz.com/
 https://www.stlanguage.com/
 https://wishawed.com/
+
+
+Figma:
+https://www.figma.com/file/ZyTshGoTrLNbAdfOqIKOkp/Cafe_CuCu?node-id=49%3A61
+https://www.figma.com/file/OhAkYKus3GaY0qmIrTDBYB/GYM-Copy?node-id=7%3A33
 
